@@ -15,3 +15,6 @@
 ![image](https://github.com/user-attachments/assets/2537d72c-ddd4-4f37-b1d9-17c6bce88972)
 
 ![image](https://github.com/user-attachments/assets/80028d2b-ae62-4e5a-9fd0-6f91ae098d20)
+
+Задеплоидный бот:
+![image](https://github.com/user-attachments/assets/660a4e2b-0bfe-4194-b2b8-20aab452c656)
